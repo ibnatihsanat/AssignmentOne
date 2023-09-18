@@ -1,14 +1,14 @@
 table {
     width: 50%;
     height: 500px;
-    border: 2px solid chocolate;
+    border: 2px solid grey;
     margin-left: 25%;
 }
 
 .black {
-    background-color: burlywood;
+    background-color: white;
 }
 
 .white {
-    background-color: chocolate;
+    background-color: grey;
 }
